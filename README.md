@@ -26,13 +26,14 @@ O assessment está dividido em seis áreas principais:
 ---
 ## Tasklist: Acompanhamento do Assessment
 
-Use a lista abaixo para acompanhar o progresso do assessment em cada área técnica:
+Use a lista abaixo para acompanhar o progresso do assessment:
 
-### **Áreas Técnicas**
+- [ ] **Introdução**: Instrodução com informações do ambiente alvo e contexto.
 - [ ] **Gestão de Código**: Gestão de código, versionamento e políticas.
 - [ ] **Aplicação**:  Conteinerização, persistência e escalabilidade.
 - [ ] **Infraestrutura de Sustentação**: Arquitetura e serviços de infraestrutura.
 - [ ] **Banco de Dados**: Modelagem e arquitetura de banco de dados.
 - [ ] **DevOps**: CI/CD, testes e lints.
 - [ ] **Ambientes**: Configuração e isolamento dos ambientes.
+- [ ] **Tarefas**: Lista de tarefas consolidada.
 
